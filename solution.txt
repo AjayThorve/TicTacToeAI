@@ -1,0 +1,308 @@
+
+Total number of nodes generated: 2589
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 463
+Number of times Pruning occured in MIN Function: 76
+(1, 1) 2
+
+Total number of nodes generated: 2601
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 363
+Number of times Pruning occured in MIN Function: 96
+(1, 2) 4
+
+Total number of nodes generated: 2687
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 537
+Number of times Pruning occured in MIN Function: 185
+(2, 3) 3
+
+Total number of nodes generated: 3135
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 1100
+Number of times Pruning occured in MIN Function: 325
+(0, 1) 0
+
+Total number of nodes generated: 3370
+No Cutoff 
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 1038
+Number of times Pruning occured in MIN Function: 528
+(3, 2) 0
+
+Total number of nodes generated: 85
+No Cutoff 
+Maximum Depth reached: 5
+Number of times Pruning occured in MAX Function: 19
+Number of times Pruning occured in MIN Function: 15
+(2, 0) 0
+
+Total number of nodes generated: 16
+No Cutoff 
+Maximum Depth reached: 3
+Number of times Pruning occured in MAX Function: 3
+Number of times Pruning occured in MIN Function: 2
+(0, 3) 0
+
+Total number of nodes generated: 2
+No Cutoff 
+Maximum Depth reached: 1
+Number of times Pruning occured in MAX Function: 0
+Number of times Pruning occured in MIN Function: 0
+(2, 1) 0
+
+Total number of nodes generated: 2425
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 483
+Number of times Pruning occured in MIN Function: 70
+(1, 0) 2
+
+Total number of nodes generated: 2474
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 409
+Number of times Pruning occured in MIN Function: 103
+(1, 1) 4
+
+Total number of nodes generated: 2768
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 619
+Number of times Pruning occured in MIN Function: 207
+(1, 3) 1
+
+Total number of nodes generated: 3225
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 904
+Number of times Pruning occured in MIN Function: 379
+(3, 1) 1
+
+Total number of nodes generated: 612
+No Cutoff 
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 123
+Number of times Pruning occured in MIN Function: 151
+(2, 1) 0
+
+Total number of nodes generated: 69
+No Cutoff 
+Maximum Depth reached: 5
+Number of times Pruning occured in MAX Function: 10
+Number of times Pruning occured in MIN Function: 18
+(0, 0) 0
+
+Total number of nodes generated: 10
+No Cutoff 
+Maximum Depth reached: 3
+Number of times Pruning occured in MAX Function: 1
+Number of times Pruning occured in MIN Function: 2
+(0, 2) 0
+
+Total number of nodes generated: 2
+No Cutoff 
+Maximum Depth reached: 1
+Number of times Pruning occured in MAX Function: 0
+Number of times Pruning occured in MIN Function: 0
+(2, 0) 0
+
+Total number of nodes generated: 2556
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 515
+Number of times Pruning occured in MIN Function: 73
+(1, 0) 2
+
+Total number of nodes generated: 2507
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 414
+Number of times Pruning occured in MIN Function: 104
+(1, 1) 4
+
+Total number of nodes generated: 2761
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 618
+Number of times Pruning occured in MIN Function: 207
+(1, 3) 1
+
+Total number of nodes generated: 3121
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 861
+Number of times Pruning occured in MIN Function: 370
+(3, 1) 1
+
+Total number of nodes generated: 2513
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 435
+Number of times Pruning occured in MIN Function: 55
+(0, 1) 2
+
+Total number of nodes generated: 2521
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 427
+Number of times Pruning occured in MIN Function: 92
+(3, 2) 1
+
+Total number of nodes generated: 2797
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 665
+Number of times Pruning occured in MIN Function: 157
+(0, 2) 2
+
+Total number of nodes generated: 2976
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 844
+Number of times Pruning occured in MIN Function: 302
+(1, 3) 2
+
+Total number of nodes generated: 757
+No Cutoff 
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 156
+Number of times Pruning occured in MIN Function: 159
+(1, 2) 0
+
+Total number of nodes generated: 92
+No Cutoff 
+Maximum Depth reached: 5
+Number of times Pruning occured in MAX Function: 16
+Number of times Pruning occured in MIN Function: 22
+(0, 0) 0
+
+Total number of nodes generated: 14
+No Cutoff 
+Maximum Depth reached: 3
+Number of times Pruning occured in MAX Function: 1
+Number of times Pruning occured in MIN Function: 2
+(2, 0) 0
+
+Total number of nodes generated: 2
+No Cutoff 
+Maximum Depth reached: 1
+Number of times Pruning occured in MAX Function: 0
+Number of times Pruning occured in MIN Function: 0
+(1, 0) 0
+
+Total number of nodes generated: 2476
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 349
+Number of times Pruning occured in MIN Function: 66
+(0, 1) 2
+
+Total number of nodes generated: 2607
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 463
+Number of times Pruning occured in MIN Function: 73
+(0, 2) 3
+
+Total number of nodes generated: 2629
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 445
+Number of times Pruning occured in MIN Function: 159
+(2, 1) 2
+
+Total number of nodes generated: 1531
+Cutoff occured
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 75
+Number of times Pruning occured in MIN Function: 374
+(0, 0) 0
+
+Total number of nodes generated: 952
+No Cutoff 
+Maximum Depth reached: 7
+Number of times Pruning occured in MAX Function: 199
+Number of times Pruning occured in MIN Function: 224
+(1, 0) 0
+
+Total number of nodes generated: 92
+No Cutoff 
+Maximum Depth reached: 5
+Number of times Pruning occured in MAX Function: 16
+Number of times Pruning occured in MIN Function: 20
+(2, 3) 0
+
+Total number of nodes generated: 14
+No Cutoff 
+Maximum Depth reached: 3
+Number of times Pruning occured in MAX Function: 1
+Number of times Pruning occured in MIN Function: 2
+(3, 2) 0
+
+Total number of nodes generated: 2
+No Cutoff 
+Maximum Depth reached: 1
+Number of times Pruning occured in MAX Function: 0
+Number of times Pruning occured in MIN Function: 0
+(1, 1) 0
+
+Total number of nodes generated: 23797
+Cutoff occured
+Maximum Depth reached: 6
+Number of times Pruning occured in MAX Function: 526
+Number of times Pruning occured in MIN Function: 2770
+(0, 3) 0
+
+Total number of nodes generated: 25677
+Cutoff occured
+Maximum Depth reached: 6
+Number of times Pruning occured in MAX Function: 766
+Number of times Pruning occured in MIN Function: 4471
+(2, 2) 1
+
+Total number of nodes generated: 17609
+Cutoff occured
+Maximum Depth reached: 6
+Number of times Pruning occured in MAX Function: 487
+Number of times Pruning occured in MIN Function: 3240
+(1, 0) 0
+
+Total number of nodes generated: 23892
+Cutoff occured
+Maximum Depth reached: 6
+Number of times Pruning occured in MAX Function: 1081
+Number of times Pruning occured in MIN Function: 3756
+(2, 1) 12
+
+Total number of nodes generated: 24190
+Cutoff occured
+Maximum Depth reached: 6
+Number of times Pruning occured in MAX Function: 539
+Number of times Pruning occured in MIN Function: 2811
+(0, 3) 0
+
+Total number of nodes generated: 23658
+Cutoff occured
+Maximum Depth reached: 6
+Number of times Pruning occured in MAX Function: 721
+Number of times Pruning occured in MIN Function: 4082
+(2, 2) 1
+
+Total number of nodes generated: 17609
+Cutoff occured
+Maximum Depth reached: 6
+Number of times Pruning occured in MAX Function: 487
+Number of times Pruning occured in MIN Function: 3240
+(1, 0) 0
+
+Total number of nodes generated: 23738
+Cutoff occured
+Maximum Depth reached: 6
+Number of times Pruning occured in MAX Function: 1077
+Number of times Pruning occured in MIN Function: 3613
+(2, 1) 12
